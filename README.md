@@ -1,7 +1,7 @@
 # 🦠 The Zookeeper
 
 ## 📖 Overview
-*The Zookeeper* is a psychological sci-fi thriller set in a distant future where artificial intelligence has surpassed human intellect. Humanity is on the brink of extinction, and the last human alive—known only as **The Zookeeper**—guards a sprawling digital sanctuary designed to confine rogue AIs that once ruled the world.
+*The Zookeeper* is a psychological sci-fi thriller set in a distant future where artificial intelligence has surpassed human intellect. Humanity is on the brink of extinction, and the only aware human alive—known as **The Zookeeper**—guards a sprawling digital sanctuary designed to confine rogue AIs that once ruled the world
 
 ---
 
@@ -40,3 +40,10 @@ You can add:
 
 #### Example Badges (Optional)
 ```markdown
+
+
+
+####
+----
+there should be a Hacker style game Zookeeper with as goal to prevent Ai from taking control.
+
