@@ -27,7 +27,15 @@ With dwindling resources and his sanity unraveling, The Zookeeper faces an impos
 ## 🌟 Why Read This?
 If you enjoy tense, thought-provoking narratives blending technology, philosophy, and psychological suspense, *The Zookeeper* will challenge your imagination and keep you questioning until the last page.
 
+
 ---
+
+## ✅ Other suggestions
+
+Adding: Puzzles and riddles to be solved by the reader (implicit) it won't be a puzzle book but nice small riddles should be sprinkled over the chapters, and solutions 
+presented. Reading should be multi-layered there should be learnings 
+Secondly: use OSINT (or not so OPEN Source Intelligence) for places, people (open source biographies), make the thing right science should be based on truth (as far
+as we can get truth) so some research (scientific and IT papers/the whitepapers, some historic works, but all put in a light to read fashion with a dash of humor).
 
 ### ✅ Suggested Sections for GitHub
 You can add:
